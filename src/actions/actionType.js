@@ -1,0 +1,3 @@
+export default {
+    ADD_TODO:'ADD_TODO',DEL_TODO:'DEL_TODO',UPD_TODO:'UPD_TODO'
+}
